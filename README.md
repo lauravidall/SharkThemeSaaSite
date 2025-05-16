@@ -16,7 +16,7 @@ HTML
 
 ## Como Rodar o projeto
 Clone o repositório
-```bash git clone https://github.com/seu-usuario/shark-saas.git](https://github.com/lauravidall/SharkThemeSaaSite)](https://github.com/lauravidall/SharkThemedSaaSSite) ```
+```bash git clone https://github.com/lauravidall/SharkThemedSaaSSite ```
 
 Instale as dependências
 ```bash npm install ```
