@@ -15,12 +15,12 @@ CSS
 HTML
 
 ## Como Rodar o projeto
-### Clone o repositório
-git clone [https://github.com/seu-usuario/shark-saas.git](https://github.com/lauravidall/SharkThemeSaaSite)
+Clone o repositório
+```bash git clone [https://github.com/seu-usuario/shark-saas.git](https://github.com/lauravidall/SharkThemeSaaSite) ```
 
-### Instale as dependências
-npm install
+Instale as dependências
+```bash npm install ```
 
-### Rode o projeto
-npm run dev
+Rode o projeto
+```bash npm run dev ```
 
