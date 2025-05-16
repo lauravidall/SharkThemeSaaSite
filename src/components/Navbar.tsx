@@ -13,8 +13,8 @@ export const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="/" className="flex items-center">
-            <img src={img} alt="Shark Tech Logo" className="w-10 h-8 mr-2" />
-            <span className="text-[#A5D7E8] text-xl font-bold">SHARK TECH</span>
+            <img src={img} alt="Shark SAAS Logo" className="w-10 h-8 mr-2" />
+            <span className="text-[#A5D7E8] text-xl font-bold">SHARK SAAS</span>
           </a>
 
           {/* Menu Desktop */}

@@ -31,7 +31,7 @@ export const ArticlesPage1 = () => {
 
         {/* Author Info */}
         <p className="mt-4 text-gray-300 text-lg text-center">
-          By <span className="font-semibold text-white">SHARK TECH</span> | April 1, 2025
+          By <span className="font-semibold text-white">SHARK SAAS</span> | April 1, 2025
         </p>
 
         {/* Main Content */}

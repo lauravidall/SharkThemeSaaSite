@@ -12,7 +12,7 @@ export const ArticlesPage4 = () => {
             Smart Dashboards: The Future of Data
           </h1>
           <h2 className="mt-2 text-xl text-[#A5D7E8]">
-            See how SHARK TECH is innovating with customized dashboards.
+            See how SHARK SAAS is innovating with customized dashboards.
           </h2>
         </header>
 
@@ -31,7 +31,7 @@ export const ArticlesPage4 = () => {
 
         {/* Author Info */}
         <p className="mt-4 text-gray-300 text-lg text-center">
-          By <span className="font-semibold text-white">SHARK TECH</span> | March 28, 2025
+          By <span className="font-semibold text-white">SHARK SAAS</span> | March 28, 2025
         </p>
 
         {/* Main Content */}
@@ -40,7 +40,7 @@ export const ArticlesPage4 = () => {
             In a data-driven world, <strong>smart dashboards</strong> are revolutionizing how businesses visualize and interpret information. These interactive tools provide real-time insights, allowing companies to make informed decisions faster and more effectively.
           </p>
           <p className="mt-4">
-            SHARK TECH is at the forefront of this transformation, developing <strong>customized dashboards</strong> that integrate multiple data sources seamlessly. With advanced analytics and user-friendly interfaces, businesses can track performance metrics, identify trends, and optimize operations.
+            SHARK SAAS is at the forefront of this transformation, developing <strong>customized dashboards</strong> that integrate multiple data sources seamlessly. With advanced analytics and user-friendly interfaces, businesses can track performance metrics, identify trends, and optimize operations.
           </p>
           <p className="mt-4">
             One of the key benefits of smart dashboards is their ability to <strong>automate data processing</strong>. Instead of manually compiling reports, organizations can access dynamic visualizations that update in real-time. This enhances efficiency, reduces errors, and ensures data accuracy.

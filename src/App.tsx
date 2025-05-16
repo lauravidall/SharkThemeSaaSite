@@ -2,8 +2,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
-import Terms from "./pages/Terms";
-import Privacy from "./pages/Privacy";
 import Services from "./pages/Services";
 import Contact from "./pages/Contact";
 import Blog from "./pages/Blog";
@@ -32,8 +30,6 @@ export function App() {
           <Route path="/news/article4" element={<Article4 />} />
           <Route path="/news/article5" element={<Article5 />} />
           <Route path="/news/article6" element={<Article6 />} />
-          <Route path="/termsofuse" element={<Terms />} />
-          <Route path="/privacypolicy" element={<Privacy />} />
         </Routes>
         <Footer />
       </div>

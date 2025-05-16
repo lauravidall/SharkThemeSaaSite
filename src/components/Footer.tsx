@@ -1,4 +1,3 @@
-import React from "react";
 import { Twitter, Mail } from "lucide-react";
 import { FaInstagram, FaYoutube } from "react-icons/fa";
 import { SiBluesky, SiSubstack } from "react-icons/si";
@@ -11,7 +10,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left mb-12">
           {/* Logo e descrição */}
           <div>
-            <span className="text-2xl font-bold text-[#A5D7E8]">SHARK TECH</span>
+            <span className="text-2xl font-bold text-[#A5D7E8]">SHARK SAAS</span>
             <p className="mt-4 text-gray-400">
               We produce digital solutions that are worth sharing.
             </p>
@@ -54,10 +53,10 @@ export const Footer = () => {
             <a href="#" className="text-gray-400 hover:text-white">
               <FaYoutube className="w-6 h-6" />
             </a>
-            <a href="https://substack.com/@sharktech" className="text-gray-400 hover:text-white">
+            <a href="#" className="text-gray-400 hover:text-white">
               <SiSubstack className="w-6 h-6" />
             </a>
-            <a href="mailto:tecnologiasharkfm@gmail.com" className="text-gray-400 hover:text-white">
+            <a href="mailto:email@mail.com" className="text-gray-400 hover:text-white">
               <Mail className="w-6 h-6" />
             </a>
           </div>
@@ -68,15 +67,15 @@ export const Footer = () => {
           <div className="flex items-center space-x-2 mb-4 md:mb-0">
             <span>Powered by</span>
             <a href="/" className="hover:text-white">
-              SHRK Tech
+              SHARK SAAS
             </a>
           </div>
 
           <div className="flex space-x-6">
-            <a href="/termsofuse" className="hover:text-white">
+            <a href="/#" className="hover:text-white">
               Terms of Use
             </a>
-            <a href="/privacypolicy" className="hover:text-white">
+            <a href="/#" className="hover:text-white">
               Privacy Policy
             </a>
           </div>

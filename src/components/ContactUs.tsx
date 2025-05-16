@@ -13,10 +13,10 @@ export const ContactUs = () => {
             <div className="flex items-center gap-2 mb-6">
               <Mail className="text-blue-500" />
               <a
-                href="mailto:tecnologiasharkfm@gmail.com"
+                href="mailto:email@mail.com"
                 className="text-[#A5D7E8] hover:text-blue-500 transition-colors"
               >
-                tecnologiasharkfm@gmail.com
+                email@mail.com
               </a>
             </div>
             <div className="relative w-full flex justify-center md:justify-start">
@@ -39,13 +39,13 @@ export const ContactUs = () => {
               </h2>
               <div className="flex flex-col gap-6">
                 <a
-                  href="mailto:tecnologiasharkfm@gmail.com"
+                  href="mailto:email@mail.com"
                   className="w-full px-6 py-3 text-white bg-[#4A90E2] rounded-lg shadow-lg hover:bg-[#357ABD] transition-transform transform hover:scale-105 text-center"
                 >
                   Email Us
                 </a>
                 <a
-                  href="https://shrktch.youcanbook.me"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full px-6 py-3 text-white bg-[#4A90E2] rounded-lg shadow-lg hover:bg-[#357ABD] transition-transform transform hover:scale-105 text-center"
